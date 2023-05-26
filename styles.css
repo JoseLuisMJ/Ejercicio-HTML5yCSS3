@@ -1,0 +1,106 @@
+
+body {
+    
+  margin: auto;
+  
+  }
+h1 {
+    text-align: center;
+  }
+
+h2 {
+background-color:gray; 
+    
+}
+
+div {
+    width: 400px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+  }
+
+
+img.a {
+    float:left;
+}
+
+img.b {
+    float:left;
+}
+table {
+  padding:50px ;
+  background-color:rgb(194, 165, 222);
+}
+th {
+    text-align: center;
+}
+
+.negro {
+  background-color: black;
+}
+
+.verde {
+  background-color: green;
+}
+
+.til {
+  background-color: teal;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.azulito {
+  background-color: navy;
+}
+
+.lima {
+  background-color: lime;
+}
+
+.blanco {
+  background-color: white;
+}
+
+.purpura {
+  background-color: purple;
+}
+
+.amarillo {
+  background-color: yellow;
+}
+
+.oliva {
+  background-color: olive;
+}
+
+.rojo {
+  background-color: red;
+}
+
+.marrón {
+  background-color: maroon;
+}
+
+.gris {
+  background-color: grey;
+}
+
+.oliva2 {
+  background-color: olive;
+}
+
+.rojo2 {
+  background-color: red;
+}
+
+.fucsia {
+  background-color: fuchsia;
+}
+
+.color {
+  text-align: center;
+
+}
